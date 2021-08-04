@@ -49,8 +49,8 @@ const App = () => {
         <SyncLoader color={'#EB9A85'} loading={loading} size={30} css={override} />
         :
         <div className="App">
-          <Header data={resumeData.main} />
-          <About data={resumeData.main} />
+          <Header data={resumeData.main}/>
+          <About data={resumeData.main}/>
           <Resume data={resumeData.resume} />
           <Portfolio data={resumeData.portfolio} />
           <Testimonials data={resumeData.testimonials} />

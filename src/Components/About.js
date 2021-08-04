@@ -1,6 +1,6 @@
 import React from "react";
 
-const About = ({ data }) => {
+const About = ({ data}) => {
   if (data) {
     var name = data.name;
     var profilepic = "images/" + data.image;
