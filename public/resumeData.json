@@ -103,7 +103,7 @@
             "image": "cortelink.png",
             "projectTitle": "CortexLink School Website",
             "projectTools": "React,Tailwind CSS,Plotly",
-            "liveDemo": "https://cortexlink-react.vercel.app/",
+            "liveDemo": "https://cortex-link-school-website-react.vercel.app",
             "github": "https://github.com/19smabtahinoor/CortexLink-School-Website-React",
             "category": "react"
          },
